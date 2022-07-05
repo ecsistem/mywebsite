@@ -12,7 +12,7 @@ const defaultOptions: DefaultOptions = {
 };
 
 export const client = new ApolloClient({
-  uri: "https://api-sa-east-1.graphcms.com/v2/cl4ofnctk04c301w7en4ddxxo/master",
+  uri: "https://api-sa-east-1.graphcms.com/v2/cl575iaka4d9t01uj1t5ccp93/master",
   cache: new InMemoryCache(),
   defaultOptions: defaultOptions,
 });
